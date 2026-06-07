@@ -8,7 +8,7 @@ body {
 }
 
 a {
-    color: #1e3a8a;
+    color: #00008b;
     text-decoration: none;
     margin: 10px;
     font-weight: bold;
@@ -20,13 +20,13 @@ a {
 }
 
 a:hover {
-    background-color: rgba(30, 58, 138, 0.1);
+    background-color: rgba(0, 0, 139, 0.1);
     text-decoration: underline;
     transform: none;
     box-shadow: none;
 }
 
 a:focus {
-    outline: 2px solid #1e3a8a;
+    outline: 1px solid #00008b;
     outline-offset: 2px;
 }

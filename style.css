@@ -1,0 +1,17 @@
+body {
+    background-color: hsl(200, 50%, 60%);
+    color: white;
+    font-family: PingFang SC;
+    margin: 0;
+    padding: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
